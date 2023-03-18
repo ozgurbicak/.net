@@ -5,7 +5,7 @@ namespace degisken
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Helslo World!");
+            Console.WriteLine("Heflslo World!");
             
         }
     }
